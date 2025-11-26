@@ -1,0 +1,15 @@
+server:
+  port: 3003
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/sales_db
+    username: user
+    password: pass
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+INVENTORY_API_URL: http://localhost:3002/inventory

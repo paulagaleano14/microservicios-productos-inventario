@@ -1,0 +1,9 @@
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/InventoryServiceApplication.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/repository/InventoryRepository.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/service/InventoryService.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/dto/ProductResponse.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/dto/PurchaseRequest.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/controller/InventoryController.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/exception/GlobalExceptionHandler.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/model/Inventory.java
+/Users/user/Desktop/LINKTIC/microservices/inventory-service/src/main/java/com/linktic/inventory/client/ProductClient.java

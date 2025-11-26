@@ -1,0 +1,10 @@
+com/linktic/products/service/ProductService.class
+com/linktic/products/ProductsServiceApplication.class
+com/linktic/products/dto/ProductResponse.class
+com/linktic/products/dto/JsonApiErrorResponse.class
+com/linktic/products/controller/ProductController.class
+com/linktic/products/repository/ProductRepository.class
+com/linktic/products/exception/ProductNotFoundException.class
+com/linktic/products/dto/ProductRequest.class
+com/linktic/products/exception/GlobalExceptionHandler.class
+com/linktic/products/model/Product.class

@@ -1,0 +1,10 @@
+com/linktic/sales/dto/SaleResponse.class
+com/linktic/sales/model/Sale.class
+com/linktic/sales/repository/SalesRepository.class
+com/linktic/sales/dto/CreateSaleRequest.class
+com/linktic/sales/client/InventoryClient.class
+com/linktic/sales/dto/ProductResponse.class
+com/linktic/sales/controller/SalesController.class
+com/linktic/sales/service/SalesService.class
+com/linktic/sales/dto/PurchaseRequest.class
+com/linktic/sales/SalesServiceApplication.class

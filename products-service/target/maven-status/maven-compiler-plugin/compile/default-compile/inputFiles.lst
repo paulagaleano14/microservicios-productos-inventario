@@ -1,0 +1,11 @@
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/dto/ProductRequest.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/model/Product.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/dto/ProductResponse.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/exception/ProductNotFoundException.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/config/OpenApiConfig.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/dto/JsonApiErrorResponse.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/controller/ProductController.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/exception/GlobalExceptionHandler.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/products/ProductsServiceApplication.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/repository/ProductRepository.java
+/Users/user/Desktop/LINKTIC/microservices/products-service/src/main/java/com/linktic/services/ProductService.java
